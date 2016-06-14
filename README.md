@@ -1,2 +1,2 @@
 # 2048
-2048 game by js
+2048 game by javascript and canvas
