@@ -1,2 +1,5 @@
 # 2048
-2048 game by javascript and canvas
+
+由canvas实现UI，jQuery实现交互
+
+[演示地址http://jacecao.github.io/2048/](http://jacecao.github.io/2048/)
