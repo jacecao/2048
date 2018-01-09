@@ -1,5 +1,6 @@
-# 2048
+# JavaScript-2048
 
-由canvas实现UI，jQuery实现交互
+借助jQuery插件实现2048游戏
+
 
 [演示地址](http://jacecao.github.io/2048/)
